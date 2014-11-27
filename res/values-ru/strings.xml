@@ -64,8 +64,8 @@
   <string name="main_upgrade_result_failed">Ошибка обновления</string> 
   <string name="main_upgrade_result_failure_info">Повторите попытку позже</string> 
   <string name="diagnosis_fix_confirm">Описанная выше операция решила Вашу проблему?</string> 
-  <string name="diagnosis_fixed">Да, прблема решена</string> 
-  <string name="diagnosis_next_fix">Нет, попробовать другие способы</string> 
+  <string name="diagnosis_fixed">Да, проблема решена</string> 
+  <string name="diagnosis_next_fix">Нет, искать другие способы</string> 
   <string name="main_upgrade_downlad">Загрузка прошивки</string> 
   <string name="main_upgrade_upload">Запись прошивки</string> 
   <string name="main_upgrade_ongoing">Обновление прошивки</string> 
